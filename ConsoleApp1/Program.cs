@@ -22,7 +22,9 @@ namespace ConsoleApp1
             // Console.ReadKey();
             // RetrieveAndUpdateSamurai();
             // RetrieveAndUpdateMultipleSamurais();
-            InsertNewSamuraiWithAQuote();
+            // InsertNewSamuraiWithAQuote();
+            // EagerLoadSamuraiWithQuotes();
+            JoinBattleAndSamurai();
         }
 
         private static void RetrieveAndUpdateSamurai()
@@ -82,6 +84,64 @@ namespace ConsoleApp1
             };
 
             Context.Samurais.Add(samurai);
+            Context.SaveChanges();
+        }
+
+        private static void EagerLoadSamuraiWithQuotes()
+        {
+            var samurais = Context.Samurais.Where(s => s.Name.Contains("Bac"))
+                .Include(s => s.Quotes)
+                .ToList();
+
+            Console.WriteLine("point");
+        }
+
+        private static void JoinBattleAndSamurai()
+        {
+            var samuraiBattle = new SamuraiBattle
+            {
+                SamuraiId = 1,
+                BattleId = 1
+            };
+
+            Context.Add(samuraiBattle);
+            Context.SaveChanges();
+        }
+
+        private static void GetSamuraiWithBattles()
+        {
+            var samuraiWithBattles = Context.Samurais
+                .Include(s => s.SamuraiBattles)
+                .ThenInclude(sb => sb.Battle)
+                .FirstOrDefault(samurai => samurai.Id == 2);
+
+            var samuraiWithBattlesCleaner = Context.Samurais.Where(s => s.Id == 2)
+                .Select(s => new
+                {
+                    Samurai = s,
+                    Battles = s.SamuraiBattles.Select(sb => sb.Battle)
+                })
+                .FirstOrDefault();
+        }
+
+        private static void AddNewHorseToSamuraiUsingId()
+        {
+            var horse = new Hourse
+            {
+                Name = "Scount", SamuraiId = 2
+            };
+
+            Context.Add(horse);
+            Context.SaveChanges();
+        }
+
+        private static void AddNewHorseToSamuraiObject()
+        {
+            var samurai = Context.Samurais.Find(22);
+            samurai.Hourse = new Hourse
+            {
+                Name = "Scount", SamuraiId = 2
+            };
             Context.SaveChanges();
         }
     }
