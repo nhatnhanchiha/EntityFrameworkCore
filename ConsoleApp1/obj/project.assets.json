@@ -5815,11 +5815,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nhatn\\RiderProjects\\Entity Framework\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\nhatn\\RiderProjects\\EntityFrameworkCore\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\nhatn\\RiderProjects\\Entity Framework\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\nhatn\\RiderProjects\\EntityFrameworkCore\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\nhatn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nhatn\\RiderProjects\\Entity Framework\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\nhatn\\RiderProjects\\EntityFrameworkCore\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nhatn\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5833,11 +5833,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\nhatn\\RiderProjects\\Entity Framework\\SamuraiApp.Data\\SamuraiApp.Data.csproj": {
-              "projectPath": "C:\\Users\\nhatn\\RiderProjects\\Entity Framework\\SamuraiApp.Data\\SamuraiApp.Data.csproj"
+            "C:\\Users\\nhatn\\RiderProjects\\EntityFrameworkCore\\SamuraiApp.Data\\SamuraiApp.Data.csproj": {
+              "projectPath": "C:\\Users\\nhatn\\RiderProjects\\EntityFrameworkCore\\SamuraiApp.Data\\SamuraiApp.Data.csproj"
             },
-            "C:\\Users\\nhatn\\RiderProjects\\Entity Framework\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
-              "projectPath": "C:\\Users\\nhatn\\RiderProjects\\Entity Framework\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj"
+            "C:\\Users\\nhatn\\RiderProjects\\EntityFrameworkCore\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\nhatn\\RiderProjects\\EntityFrameworkCore\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj"
             }
           }
         }

@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\nhatn\\RiderProjects\\Entity Framework\\SamuraiApp.Data\\SamuraiApp.Data.csproj",
+    "projectUniqueName": "C:\\Users\\nhatn\\RiderProjects\\EntityFrameworkCore\\SamuraiApp.Data\\SamuraiApp.Data.csproj",
     "projectName": "SamuraiApp.Data",
-    "projectPath": "C:\\Users\\nhatn\\RiderProjects\\Entity Framework\\SamuraiApp.Data\\SamuraiApp.Data.csproj",
-    "outputPath": "C:\\Users\\nhatn\\RiderProjects\\Entity Framework\\SamuraiApp.Data\\obj\\",
+    "projectPath": "C:\\Users\\nhatn\\RiderProjects\\EntityFrameworkCore\\SamuraiApp.Data\\SamuraiApp.Data.csproj",
+    "outputPath": "C:\\Users\\nhatn\\RiderProjects\\EntityFrameworkCore\\SamuraiApp.Data\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"
@@ -15,8 +15,8 @@
     "frameworks": {
       "netcoreapp3.1": {
         "projectReferences": {
-          "C:\\Users\\nhatn\\RiderProjects\\Entity Framework\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
-            "projectPath": "C:\\Users\\nhatn\\RiderProjects\\Entity Framework\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj"
+          "C:\\Users\\nhatn\\RiderProjects\\EntityFrameworkCore\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj": {
+            "projectPath": "C:\\Users\\nhatn\\RiderProjects\\EntityFrameworkCore\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj"
           }
         }
       }

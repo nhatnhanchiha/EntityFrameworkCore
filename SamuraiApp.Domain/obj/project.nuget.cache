@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NPGWB5aqq6ERaTNWV4Dgi9xFO40Bllb7CiBE7U+iiB9YGRSU6JdatQw83lsuh/+2UygpwxVTyQ66FzITCDTfIQ==",
+  "dgSpecHash": "pKe+huinjsr5wTdDO5grOFis+AFYbyM/g6jif14GfbqQtuRERx7aJ7RyVU34rml66mELk5OX5ppxtaU1xv06qg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nhatn\\RiderProjects\\Entity Framework\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
+  "projectFilePath": "C:\\Users\\nhatn\\RiderProjects\\EntityFrameworkCore\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6JXATJ7/5ky4Tn7xG2Vt/5cY1YIWrHifHyhwxiLT77ujGZ/Li+TWDEvwwxJZ4azcrRA5UetaPuEEiG7Cu4C7yQ==",
+  "dgSpecHash": "dzuj5e4iiBSBMJnDHmdf1GOx9txJ/k/ap6LuptMOPWHxBWEJy+/ACzMdtS5OAAIrcAkzp8TZ+xH3OxW4yd/u4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nhatn\\RiderProjects\\Entity Framework\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\nhatn\\RiderProjects\\EntityFrameworkCore\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nhatn\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\nhatn\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

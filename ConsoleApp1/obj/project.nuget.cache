@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ue2z9qjwLslL58+NJ+FZ2e9drohZgNYCWxbUTrmUxOhU88bYXbAGTV+lcUpYISq0bp91yli76JLdmf+KpgeD9A==",
+  "dgSpecHash": "0myoir0ozv9uKFyx8lI83ZSm8CR0P2QUROJM/uoSTShZ0T/8aLaMhcvqfMKaovSab3cuWjM70bL/P7nErq2QAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nhatn\\RiderProjects\\Entity Framework\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\nhatn\\RiderProjects\\EntityFrameworkCore\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nhatn\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\nhatn\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

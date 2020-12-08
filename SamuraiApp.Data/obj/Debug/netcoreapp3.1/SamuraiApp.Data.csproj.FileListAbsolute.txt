@@ -10,3 +10,15 @@ C:\Users\nhatn\RiderProjects\Entity Framework\SamuraiApp.Data\obj\Debug\netcorea
 C:\Users\nhatn\RiderProjects\Entity Framework\SamuraiApp.Data\obj\Debug\netcoreapp3.1\SamuraiApp.Data.csproj.CopyComplete
 C:\Users\nhatn\RiderProjects\Entity Framework\SamuraiApp.Data\obj\Debug\netcoreapp3.1\SamuraiApp.Data.dll
 C:\Users\nhatn\RiderProjects\Entity Framework\SamuraiApp.Data\obj\Debug\netcoreapp3.1\SamuraiApp.Data.pdb
+C:\Users\nhatn\RiderProjects\EntityFrameworkCore\SamuraiApp.Data\bin\Debug\netcoreapp3.1\SamuraiApp.Data.deps.json
+C:\Users\nhatn\RiderProjects\EntityFrameworkCore\SamuraiApp.Data\bin\Debug\netcoreapp3.1\SamuraiApp.Data.dll
+C:\Users\nhatn\RiderProjects\EntityFrameworkCore\SamuraiApp.Data\bin\Debug\netcoreapp3.1\SamuraiApp.Data.pdb
+C:\Users\nhatn\RiderProjects\EntityFrameworkCore\SamuraiApp.Data\bin\Debug\netcoreapp3.1\SamuraiApp.Domain.dll
+C:\Users\nhatn\RiderProjects\EntityFrameworkCore\SamuraiApp.Data\bin\Debug\netcoreapp3.1\SamuraiApp.Domain.pdb
+C:\Users\nhatn\RiderProjects\EntityFrameworkCore\SamuraiApp.Data\obj\Debug\netcoreapp3.1\SamuraiApp.Data.csprojAssemblyReference.cache
+C:\Users\nhatn\RiderProjects\EntityFrameworkCore\SamuraiApp.Data\obj\Debug\netcoreapp3.1\SamuraiApp.Data.AssemblyInfoInputs.cache
+C:\Users\nhatn\RiderProjects\EntityFrameworkCore\SamuraiApp.Data\obj\Debug\netcoreapp3.1\SamuraiApp.Data.AssemblyInfo.cs
+C:\Users\nhatn\RiderProjects\EntityFrameworkCore\SamuraiApp.Data\obj\Debug\netcoreapp3.1\SamuraiApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\nhatn\RiderProjects\EntityFrameworkCore\SamuraiApp.Data\obj\Debug\netcoreapp3.1\SamuraiApp.Data.csproj.CopyComplete
+C:\Users\nhatn\RiderProjects\EntityFrameworkCore\SamuraiApp.Data\obj\Debug\netcoreapp3.1\SamuraiApp.Data.dll
+C:\Users\nhatn\RiderProjects\EntityFrameworkCore\SamuraiApp.Data\obj\Debug\netcoreapp3.1\SamuraiApp.Data.pdb

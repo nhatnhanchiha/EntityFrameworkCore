@@ -33,12 +33,6 @@ namespace ConsoleApp1
         private static void RetrieveAndUpdateMultipleSamurais()
         {
             var samurais = Context.Samurais.Skip(1).Take(3).ToList();
-            var battle = Context.Battles.AsNoTracking().FirstOrDefault();
-            
-            foreach (var samurai in samurais)
-            {
-                Console.WriteLine(samurai.Name);
-            }
         }
 
         private static void AddSamurai()

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KCO3yOY4QOC2x34u2XbY99Bmuehfu+fLDSYRvtA+Omlx3sqdQC/MRGWDXnYlmPRh8PPDR2f7FgwHEZ2zlCXi1A==",
+  "dgSpecHash": "VbYRD4q921BChtpeUH8I0j8ZT/1gNT/i/mCrLFgIpefgTH5Ga/p/jJ6f9ZWtmRNln0VQJAz5k4so+FoJeJZ3cQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nhatn\\RiderProjects\\Entity Framework\\SamuraiApp.Data\\SamuraiApp.Data.csproj",
+  "projectFilePath": "C:\\Users\\nhatn\\RiderProjects\\EntityFrameworkCore\\SamuraiApp.Data\\SamuraiApp.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nhatn\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\nhatn\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
