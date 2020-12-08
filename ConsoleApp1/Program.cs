@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using SamuraiApp.Data;
@@ -20,7 +21,8 @@ namespace ConsoleApp1
             // QueryFilters();
             // Console.ReadKey();
             // RetrieveAndUpdateSamurai();
-            RetrieveAndUpdateMultipleSamurais();
+            // RetrieveAndUpdateMultipleSamurais();
+            InsertNewSamuraiWithAQuote();
         }
 
         private static void RetrieveAndUpdateSamurai()
@@ -65,6 +67,21 @@ namespace ConsoleApp1
             var samurai1 = new Samurai(){Name = "Bac"};
             var samurai2 = new Samurai(){Name = "Bac"};
             Context.Samurais.AddRange(samurai, samurai1, samurai2);
+            Context.SaveChanges();
+        }
+
+        private static void InsertNewSamuraiWithAQuote()
+        {
+            var samurai = new Samurai
+            {
+                Name = "Ta Lien",
+                Quotes = new List<Quote>
+                {
+                    new Quote {Text = "I wanna save everybody"}
+                }
+            };
+
+            Context.Samurais.Add(samurai);
             Context.SaveChanges();
         }
     }
